@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733140967653",
+    "project_id": "learning-gateway",
+    "storage_bucket": "learning-gateway.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733140967653:android:b2ede7f7f89f3fba07f40c",
+        "android_client_info": {
+          "package_name": "com.code.learning_gateway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733140967653-mpv0f4pgc8erge18qttsovrm8co1oe2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyJKvK8waEB7mZxlXT1B-u3v0uTmsbVho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733140967653-mpv0f4pgc8erge18qttsovrm8co1oe2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
