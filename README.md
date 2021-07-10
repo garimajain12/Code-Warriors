@@ -26,3 +26,4 @@ dependencies:
   flutter_calendar_carousel: ^2.0.1
   firebase_core: ^1.3.0
   firebase_auth: ^2.0.0
+  
