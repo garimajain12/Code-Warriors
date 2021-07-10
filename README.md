@@ -14,3 +14,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.6
+  provider: ^5.0.0
+  firebase_analytics: ^8.1.2
+  google_sign_in: ^5.0.4
+  cloud_firestore: ^2.3.0
+  flutter_calendar_carousel: ^2.0.1
+  firebase_core: ^1.3.0
+  firebase_auth: ^2.0.0
