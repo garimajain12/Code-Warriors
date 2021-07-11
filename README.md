@@ -16,10 +16,11 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-##**E-LEARNING**
+# <img src="android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" alt="icon" width=30> E-Learning
 
 E-Learn is a beautiful open-source education app for Android. It is built with Dart on top of Google's Flutter Framework.
-![image](https://user-images.githubusercontent.com/84665079/125183634-cddeb200-e235-11eb-92bd-e0e95a853bd4.png)
+| '![image](https://user-images.githubusercontent.com/84665079/125184098-b5bc6200-e238-11eb-9edf-85a8d7497bb1.png)
+
 
 ## List of Contents
 
