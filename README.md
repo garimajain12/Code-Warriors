@@ -49,7 +49,6 @@ The following packages are needed for the development of this application.
 - `firebase_core: ^1.3.0`
 - `firebase_auth: ^2.0.0`
 
-
-
+More details about these can be found in the [`pubspec.yaml`](https://github.com/Hash-Studios/e-learning-app/tree/master/pubspec.yaml) file.
   
   
