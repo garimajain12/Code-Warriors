@@ -1,4 +1,4 @@
-# learning_gateway
+# <img src="android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" alt="icon" width=30> learning_gateway
 
 A new Flutter project.
 
@@ -16,10 +16,11 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-# <img src="android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" alt="icon" width=30> E-Learning
+## E-Learning
 
-E-Learn is a beautiful open-source education app for Android. It is built with Dart on top of Google's Flutter Framework.
-![image](https://user-images.githubusercontent.com/84665079/125184098-b5bc6200-e238-11eb-9edf-85a8d7497bb1.png)
+It is built with Dart on top of Google's Flutter Framework.
+
+![image](https://user-images.githubusercontent.com/84665079/125184552-57917e00-e23c-11eb-936d-268fb70ce582.png)
 
 
 ## List of Contents
