@@ -29,6 +29,10 @@ The following packages are needed for the development of this application.
 - `firebase_core: ^1.3.0`
 - `firebase_auth: ^2.0.0`
 
+E-Learn is a beautiful open-source education app for Android. It is built with Dart on top of Google's Flutter Framework.
+![image](https://user-images.githubusercontent.com/84665079/125183634-cddeb200-e235-11eb-92bd-e0e95a853bd4.png)
+
+
 
   
   
